@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/GitHub/eUTMSRC/web/views/layouts/navbar.jsp</file>
+            <file>file:/D:/GitHub/eUTMSRC/web/views/user/login.jsp</file>
+            <file>file:/D:/GitHub/eUTMSRC/src/java/com/hostel/controller/LoginController.java</file>
+            <file>file:/D:/GitHub/eUTMSRC/web/views/layouts/sidebar.jsp</file>
+            <file>file:/D:/GitHub/eUTMSRC/web/views/student/view.jsp</file>
+            <file>file:/D:/GitHub/eUTMSRC/src/java/com/hostel/dao/CollegeDAO.java</file>
+            <file>file:/D:/GitHub/eUTMSRC/src/java/com/hostel/dao/StudentDAO.java</file>
+            <file>file:/D:/GitHub/eUTMSRC/web/views/user/index.jsp</file>
+            <file>file:/D:/GitHub/eUTMSRC/web/WEB-INF/web.xml</file>
+            <file>file:/D:/GitHub/eUTMSRC/src/java/com/hostel/controller/StudentController.java</file>
+            <file>file:/D:/GitHub/eUTMSRC/web/views/college/list.jsp</file>
+            <file>file:/D:/GitHub/eUTMSRC/src/java/com/hostel/controller/CollegeController.java</file>
+            <file>file:/D:/GitHub/eUTMSRC/web/WEB-INF/urlrewrite.xml</file>
+            <file>file:/D:/GitHub/eUTMSRC/web/views/form/check.jsp</file>
+        </group>
+    </open-files>
+</project-private>
